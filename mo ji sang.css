@@ -1,6 +1,7 @@
 body {
     text-align: justify;
     background-color: rgb(225, 252, 246);
+    color: darkslategrey;
 }
 image {
     position: center;
