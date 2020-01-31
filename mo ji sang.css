@@ -4,7 +4,8 @@ body {
     color: rgb(52, 76, 97);
 }
 image {
-    text-align: center;
+   margin-left: auto;
+   margin-right: auto;
 }
 h1 {
     text-align: center;
