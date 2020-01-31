@@ -1,9 +1,9 @@
 body {
     text-align: justify;
-    background-color: rgb(176, 253, 253);
+    background-color: rgb(225, 252, 246);
 }
 image {
-    text-align: center;
+    position: center;
 }
 h1 {
     text-align: center;
